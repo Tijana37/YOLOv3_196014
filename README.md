@@ -1,6 +1,6 @@
-# YOLOv3_196014
-Subject: Digital Image Processing @FINKI
-Project: Object detection algorithms based on neural networks - YOLO version 3
+# YOLOv3_196014 \n
+Subject: Digital Image Processing @FINKI \n
+Project: Object detection algorithms based on neural networks - YOLO version 3 \n
 
 @Official_DPNS_project.pdf is the project with no explanation of the code but provides good base of convolutional neural networks.
 The code is taken from (https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch).
